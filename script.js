@@ -40,6 +40,13 @@ const catalogoProductos = [
     precioConDescuento: 2000,
     imagen: "./assets/catalogo/rolls-chocolate.jpeg",
   },
+  {
+    id: "cheesecake",
+    nombre: "Cheesecake Arandanos",
+    descripcion: "Cheesecake de arandanos mediano de 14cm.",
+    precio: 16000,
+    imagen: "./assets/catalogo/mismo nombre de la imagen que quiera subir",
+  },
 ];
 
 const productosBox = [
